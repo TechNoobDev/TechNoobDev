@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/TechNoobDev/TechNoobDev/main/header.svg" alt="Hi there, I'm TechNoobDev!" />
 
-📍 Pasig City, Philippines &nbsp;•&nbsp; 💡 Building web, mobile, and business systems
+Pasig City, Philippines &nbsp;•&nbsp; Building Web/App, mobile Application, and Business Systems
 
 **Full-Stack Developer** | **Android Developer** | **Business Systems & Automation**
 
