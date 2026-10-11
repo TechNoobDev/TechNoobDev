@@ -1,58 +1,24 @@
-# Hi, I'm TechNoobDev 👋
+# Hi there, I'm TechNoobDev! 👋
 
-### Aspiring Software Developer | IT Student
+🌍 Based in YOUR CITY, COUNTRY • 💡 Passionate about building innovative solutions
 
-I'm an Information Technology student passionate about building web, desktop, and mobile applications.
+*Full-Stack Developer | Android Developer | Business Systems & Automation*
 
-* 💻 Interested in software development and problem-solving
-* 🌱 Continuously learning new technologies
-* 🛠️ Building projects to improve my programming skills
-* 🎯 Working toward becoming a professional software developer
+Welcome to my GitHub profile! I build web apps, mobile apps, e-commerce platforms, POS systems, and automation solutions. I'm always eager to learn new tools and frameworks.
 
----
+## 🛠️ Technologies & Tools
 
-## 🧰 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,java,cs,mysql,firebase,androidstudio,git,github,vscode,postman" />
+</p>
 
-**Languages:** Java, C#, JavaScript, HTML, CSS, PHP, Python
+## 🌟 Let's Connect!
 
-**Frontend:** React.js, Next.js, Tailwind CSS
+I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
 
-**Databases:** MySQL, SQL Server, MongoDB, Firebase, Supabase
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
 
-**Tools:** Git, GitHub, VS Code, Visual Studio, Android Studio
+## 🎉 Fun Fact
 
----
-
-## 🚀 Featured Projects
-
-### 🛒 E-commerce Project
-
-An online shopping project built with HTML.
-
-### 🖥️ Cashier Queue System
-
-A desktop queue management system using C# and .NET 8.
-
-### 👨‍💻 Employee Window Form
-
-A Windows Forms application project.
-
-### 🌱 GreenSteps Daily Eco Tracker
-
-An Android application for tracking eco-friendly activities using Java and SQLite.
-
----
-
-## 📊 GitHub
-
-* [View my repositories](https://github.com/TechNoobDev?tab=repositories)
-
----
-
-## 📫 Connect With Me
-
-* GitHub: [@TechNoobDev](https://github.com/TechNoobDev)
-
----
-
-*Learning, building, and improving one project at a time.*
+Write something fun about yourself here!
