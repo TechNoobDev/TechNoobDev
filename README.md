@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/TechNoobDev/TechNoobDev/main/header.svg" alt="Hi there, I'm TechNoobDev!" />
 
-Building Web/App, Mobile Application, and Business Systems
-
 **Full-Stack Developer** | **Android Developer** | **Business Systems & Automation**
 
 I create web apps, Android apps, POS systems, and e-commerce platforms, and I automate the tedious parts of business. I use AI tools to build faster and to help with debugging, so I can spend more time solving real problems. Always learning, always building.
