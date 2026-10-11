@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/TechNoobDev/TechNoobDev/main/header.svg" alt="Hi there, I'm TechNoobDev!" /> 👋
+<img src="https://raw.githubusercontent.com/TechNoobDev/TechNoobDev/main/header.svg" alt="Hi there, I'm TechNoobDev!" />
 
 🌍 Based in PASIG CITY, PHILIPPINES• 💡 Passionate about building innovative solutions
 
