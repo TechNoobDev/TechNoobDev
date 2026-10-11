@@ -1,6 +1,6 @@
 # Hi there, I'm TechNoobDev! 👋
 
-🌍 Based in YOUR CITY, COUNTRY • 💡 Passionate about building innovative solutions
+🌍 Based in PASIG CITY, PHILIPPINES• 💡 Passionate about building innovative solutions
 
 *Full-Stack Developer | Android Developer | Business Systems & Automation*
 
