@@ -9,7 +9,7 @@ I create web apps, Android apps, POS systems, and e-commerce platforms, and I au
 ## 🛠️ Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,java,cs,python,mysql,sql,mongodb,firebase,androidstudio,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,java,cs,python,mysql,sqlite,mongodb,firebase,androidstudio,git,github,vscode,postman" />
 </p>
 
 ## 🌟 Let's Connect!
