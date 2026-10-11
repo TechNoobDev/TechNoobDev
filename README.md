@@ -21,4 +21,4 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 ## 🎉 Fun Fact
 
-Write something fun about yourself here!
+I'm a tech enthusiast who loves exploring new tools, frameworks, and ideas, and turning them into real projects. 💻
