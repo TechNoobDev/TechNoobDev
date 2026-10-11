@@ -4,7 +4,7 @@
 
 **Full-Stack Developer** | **Android Developer** | **Business Systems & Automation**
 
-I create web apps, Android apps, POS systems, and e-commerce platforms, and I automate the tedious parts of business. Always learning, always building.
+I create web apps, Android apps, POS systems, and e-commerce platforms, and I automate the tedious parts of business. I use AI tools to build faster and to help with debugging, so I can spend more time solving real problems. Always learning, always building.
 
 ## 🛠️ Technologies & Tools
 
