@@ -1,4 +1,4 @@
-# Hi there, I'm TechNoobDev! 👋
+# Hi there, I'm TechNoobDev!
 
 🌍 Based in PASIG CITY, PHILIPPINES• 💡 Passionate about building innovative solutions
 
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I build web apps, mobile apps, e-commerce platform
 ## 🛠️ Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,java,cs,mysql,firebase,androidstudio,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,java,cs,python,mysql,firebase,androidstudio,git,github,vscode,postman" />
 </p>
 
 ## 🌟 Let's Connect!
