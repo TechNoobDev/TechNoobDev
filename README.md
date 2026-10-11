@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/TechNoobDev/TechNoobDev/main/header.svg" alt="Hi there, I'm TechNoobDev!" />
 
-🌍 Based in PASIG CITY, PHILIPPINES• 💡 Passionate about building innovative solutions
+📍 Pasig City, Philippines &nbsp;•&nbsp; 💡 Building web, mobile, and business systems
 
-*Full-Stack Developer | Android Developer | Business Systems & Automation*
+**Full-Stack Developer** | **Android Developer** | **Business Systems & Automation**
 
-Welcome to my GitHub profile! I build web apps, mobile apps, e-commerce platforms, POS systems, and automation solutions. I'm always eager to learn new tools and frameworks.
+I create web apps, Android apps, POS systems, and e-commerce platforms, and I automate the tedious parts of business. Always learning, always building.
 
 ## 🛠️ Technologies & Tools
 
