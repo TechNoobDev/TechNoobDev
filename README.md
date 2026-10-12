@@ -10,6 +10,7 @@ I create web apps, Android apps, POS systems, and e-commerce platforms, and I au
   <img src="https://skillicons.dev/icons?i=html,css,js,react,express,tailwind,typescript,php,java,cs,python,mysql,sqlite,mongodb,firebase,androidstudio,git,github,vscode,visualstudio,unity,postman,supabase,linux,bash,ubuntu" />
 </p>
 
+##
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=TechNoobDev&theme=dark&background=0D1117&border=2EA877&ring=6EA8FE&fire=6EA8FE&currStreakNum=B197FC&currStreakLabel=B197FC&sideNums=6EA8FE&sideLabels=6EA8FE&dates=2EA877" alt="GitHub Streak" />
 </p>
