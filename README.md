@@ -7,7 +7,8 @@ I create web apps, Android apps, POS systems, and e-commerce platforms, and I au
 ##  Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,nextjs,tailwind,typescript,php,java,cs,python,mysql,sqlite,mongodb,firebase,androidstudio,git,github,vscode,visualstudio,unity,postman,supabase,linux,bash,ubuntu,chatgpt" />
+ 
+<img src="https://skillicons.dev/icons?i=html,css,js,react,express,nextjs,tailwind,typescript,php,java,cs,python,mysql,sqlite,mongodb,firebase,androidstudio,git,github,vscode,visualstudio,unity,postman,supabase,linux,bash,ubuntu,chatgpt,claude" />
 </p>
 
 ## Current Stats
